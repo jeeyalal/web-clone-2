@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+}
+@font-face {
+    font-family: Nimbu1;
+    src: url(nimbus-sans-l/NimbusSanL-Bol.ttf);
+}
+@font-face {
+    font-family: Nimbu2;
+    src: url(nimbus-sans-l/NimbusSanL-BolIta.ttf);
+}
+@font-face {
+    font-family: Nimbu3;
+    src: url(nimbus-sans-l/NimbusSanL-Reg.ttf);
+}@font-face {
+    font-family: Nimbu4;
+    src: url(nimbus-sans-l/NimbusSanL-RegIta.ttf);
+}
